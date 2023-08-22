@@ -1,5 +1,5 @@
 # Prueba GIT
-Este es un documento de prueba de git
+Este es un documento de prueba de git:
 
 html:
 
